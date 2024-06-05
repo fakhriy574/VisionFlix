@@ -1,0 +1,13 @@
+export const iconEmail = require('../assets/icons/email.png');
+export const iconLock = require('../assets/icons/lock.png');
+export const iconGoogle = require('../assets/icons/google.png');
+export const iconFb = require('../assets/icons/fb.png');
+export const iconTwitter = require('../assets/icons/twitter.png');
+export const iconUser = require('../assets/icons/user.png');
+export const iconNotif = require('../assets/icons/notif.png');
+export const iconSearch = require('../assets/icons/search.png');
+export const iconPlay = require('../assets/icons/play.png');
+export const iconArrowLeft = require('../assets/icons/arrow-left.png');
+export const iconShare = require('../assets/icons/share.png');
+export const iconStar = require('../assets/icons/star.png');
+export const iconBack = require('../assets/icons/back.png');
